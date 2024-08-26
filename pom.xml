@@ -24,7 +24,7 @@
 		<jwt.version>0.9.1</jwt.version>
 		<modelmapper.version>1.1.0</modelmapper.version>
 		<typetools.version>0.5.0</typetools.version>
-		<swagger.version>2.7.0</swagger.version>
+		<swagger.version>2.10.0</swagger.version>
 		<flyway.version>5.0.7</flyway.version>
         <restassured.version>3.0.7</restassured.version>
         <jacoco.version>0.7.9</jacoco.version>
